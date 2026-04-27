@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React hello
+          Learn React hello, configurando llaves ssh
         </a>
       </header>
     </div>
